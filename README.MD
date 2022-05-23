@@ -1,13 +1,14 @@
 # Virtual Finger Counting
 
-
 ## General Information
-
-
+This is a basic sign language system using opencv and mediapipe.
 
 ## Installation
 Create a virtual env, then
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all required packages (see requirements.txt)
+use the package manager [pip](https://pip.pypa.io/en/stable/) to install all required packages (see requirements.txt)
+- mediapipe
+- opencv
+- numpy
 
 ```bash
 pip install <package_name>
